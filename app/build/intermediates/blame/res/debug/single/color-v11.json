@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

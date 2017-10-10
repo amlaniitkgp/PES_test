@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:5:22-68
+application
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/banoth/.android/build-cache/46b9f0fa843288a9faaee99a65bc5224e9d2bf9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/banoth/.android/build-cache/572a257ef925be2d599d91159c1ddaaf1c13b33c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/banoth/.android/build-cache/685034b24fde9228d9b67039b6a996f88d4e5104/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/banoth/.android/build-cache/64d18d14fbbd5b771bb363334beac61efcd9e2a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/banoth/.android/build-cache/f50a2e142435a215381a5338961043eb88f6cfc1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/banoth/.android/build-cache/fbe040881c2f0e31c5163af8f94e733853bad01e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/banoth/.android/build-cache/0fed1d685fa0d58a283750f0214b119bf1880daa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/banoth/.android/build-cache/76661071259cb247d6f129b565d11438a561adfe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/banoth/.android/build-cache/a45bf81316dfb2d6fe86d99aae9d72482dde8e1f/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:12:9-40
+activity#amlan.example.com.snoreee.MainActivity
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:13:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/banoth/.android/build-cache/46b9f0fa843288a9faaee99a65bc5224e9d2bf9b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/banoth/.android/build-cache/572a257ef925be2d599d91159c1ddaaf1c13b33c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/banoth/.android/build-cache/685034b24fde9228d9b67039b6a996f88d4e5104/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/banoth/.android/build-cache/64d18d14fbbd5b771bb363334beac61efcd9e2a7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/banoth/.android/build-cache/f50a2e142435a215381a5338961043eb88f6cfc1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/banoth/.android/build-cache/fbe040881c2f0e31c5163af8f94e733853bad01e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/banoth/.android/build-cache/0fed1d685fa0d58a283750f0214b119bf1880daa/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/banoth/.android/build-cache/76661071259cb247d6f129b565d11438a561adfe/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/banoth/.android/build-cache/a45bf81316dfb2d6fe86d99aae9d72482dde8e1f/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+		INJECTED from /home/banoth/Desktop/BTP/snoreDetection/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/banoth/.android/build-cache/46b9f0fa843288a9faaee99a65bc5224e9d2bf9b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/banoth/.android/build-cache/572a257ef925be2d599d91159c1ddaaf1c13b33c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/banoth/.android/build-cache/685034b24fde9228d9b67039b6a996f88d4e5104/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/banoth/.android/build-cache/64d18d14fbbd5b771bb363334beac61efcd9e2a7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/banoth/.android/build-cache/f50a2e142435a215381a5338961043eb88f6cfc1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/banoth/.android/build-cache/fbe040881c2f0e31c5163af8f94e733853bad01e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/banoth/.android/build-cache/0fed1d685fa0d58a283750f0214b119bf1880daa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/banoth/.android/build-cache/76661071259cb247d6f129b565d11438a561adfe/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/AndroidManifest.xml:26:9-47

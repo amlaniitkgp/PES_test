@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/banoth/Desktop/BTP/snoreDetection/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/banoth/Desktop/BTP/snoreDetection/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/Snoreee/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/banoth/Desktop/BTP/snoreDetection/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/banoth/.android/build-cache/a27be3446b28c648c9d96c33b562f10575c37a0c/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]
